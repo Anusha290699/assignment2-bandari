@@ -15,4 +15,6 @@ Temperatures in Costa Rica’s **cloud forests** tend to stay the same throughou
 4.To travel from Maryville to Costa Rica firstly, we need to go to Kansas City.
     1.Kansas City  
     2.San Jose
-5.The final destination is the place called Costa Rica        
+5.The final destination is the place called Costa Rica
+* Beaches
+* Volcanoes        
