@@ -9,6 +9,8 @@ Temperatures in Costa Rica’s **cloud forests** tend to stay the same throughou
 ****
 
 # Directions for traveling from Maryville to Costa Rica
+
+
 1.Firstly book a flight ticket
 2.Before booking a flight ticket select the date,time,to and from address
 3.Next make a confirmation of your booking
@@ -16,5 +18,13 @@ Temperatures in Costa Rica’s **cloud forests** tend to stay the same throughou
     1.Kansas City  
     2.San Jose
 5.The final destination is the place called Costa Rica
+
 * Beaches
+    * Montezuma Beach
+    * Santa Teresa Beach
+    * Whale Tail Beach
 * Volcanoes        
+
+---
+
+
