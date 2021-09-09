@@ -28,3 +28,12 @@ Temperatures in Costa Rica’s **cloud forests** tend to stay the same throughou
 ---
 
 [AboutMe](https://github.com/Anusha290699/assignment2-bandari/blob/main/AboutMe.md)
+
+---
+
+| Food/Drinks | Location | Price (Inr) |
+| ---| ---| ---: |
+| Mutton Biryani | Pardise | 400 |
+| Coffee | Scooter's Coffee | 350 |
+| Veggie Burger | KFC | 150  |
+| Wrap | Starbucks | 250 |
