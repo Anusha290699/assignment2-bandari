@@ -37,3 +37,12 @@ Temperatures in Costa Rica’s **cloud forests** tend to stay the same throughou
 | Coffee | Scooter's Coffee | 350 |
 | Veggie Burger | KFC | 150  |
 | Wrap | Starbucks | 250 |
+
+---
+
+### Quotes related to Strength
+
+> "Do not judge me by my success, judge me by how many times I fell down and got back up again.” - *Nelson Mandela*
+>
+> “This is no time for ease and comfort. It is time to dare and endure.” - *Winston Churchill*
+
